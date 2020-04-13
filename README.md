@@ -45,6 +45,9 @@ Check the terminal for possible errors and for progress reporting.
 
 Terminal scripts can be interrupted by pressing Ctrl+C.
 
+## Adição de um jupyter notebook para facilitar o processo
+Adição do 'Image-Plotter - Plot Image Network.ipynb' para facilitar o processo de plotar a rede de imagens.
+
 ## Credits
 Script by André Mintz. Feb 2018.
 
